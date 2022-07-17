@@ -1,19 +1,16 @@
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
 <h1 class="font_3"><a href="https://www.analytics-model.com/"><span class="color_11">The smartest way to detect&nbsp;changes in your data</span></a></h1>
-
+<p>&nbsp;</p>
 Open source platform that changes the way companies consume data. 
 Automatically notifies you when our alert engine identifies an anomaly in your data based on machine learning algorithms. Our algorithm actively learns from your data and eliminates noise to identify anomalies in your data.
-
-
+<p>&nbsp;</p>
 <p><strong>Find And Fix Fast</strong></p>
 Find and fix issues at the right moment and impact your usage, conversions,
 retention and revenues.
-
-
+<p>&nbsp;</p>
 <p><strong>Increasing Employee Productivity</strong></p>
 Our platform is a great way to enable smarter, faster, and better decision-making in your business. It also helps you with insight generation and process optimization.
-
-
+<p>&nbsp;</p>
 <p><strong>Technology</strong></p>
 ML can see things humans can’t, ML can detect unusual metrics that would normally be invisible immediately and report back to you, so you can understand the problem and get everything running smoothly in no time, 24/7. 
 
