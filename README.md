@@ -1,8 +1,18 @@
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
 <h1 class="font_3"><a href="https://www.analytics-model.com/"><span class="color_11">The smartest way to detect&nbsp;changes in your data</span></a></h1>
 <p>&nbsp;</p>
-Open source platform that changes the way companies consume data. 
-Automatically notifies you when our alert engine identifies an anomaly in your data based on machine learning algorithms. Our algorithm actively learns from your data and eliminates noise to identify anomalies in your data.
+
+
+Open source platform that monitor and analyse data autonomously, using this platform you will automatically notifies when the software engine identifies an anomaly or incident in your data. The algorithem is basaed on machine learning technolegy. 
+
+<p>&nbsp;</p>
+Our models run continuously and autonomously across every possible metric, study your data’s normal
+behavior, and notify you at the right time with the right insight.
+
+<p>&nbsp;</p>
+All you need to do is pick a data source from hundreds of databases, and our model will go into action, scan billions of data points and present you with the incidents you need to attend to before they impact your revenue.
+
+
 <p>&nbsp;</p>
 <p><strong>Find And Fix Fast</strong></p>
 Find and fix issues at the right moment and impact your usage, conversions,
