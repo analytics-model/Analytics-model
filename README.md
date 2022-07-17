@@ -1,4 +1,11 @@
-### Hi there 👋
+<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
+<h1 class="font_3"><a href="https://www.analytics-model.com/"><span class="color_11">The smartest way to detect&nbsp;changes in your data</span></a></h1>
+
+Open source platform that changes the way companies consume data. 
+
+
+[![Watch the video](https://img.youtube.com/vi/u10oa1AA35k/mqdefault.jpg)](https://www.youtube.com/watch?v=u10oa1AA35k)
+
 
 <!--
 **analytics-model/Analytics-model** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
