@@ -26,6 +26,12 @@ ML can see things humans can’t, ML can detect unusual metrics that would norma
 
 [![Watch the video](https://img.youtube.com/vi/u10oa1AA35k/mqdefault.jpg)](https://www.youtube.com/watch?v=u10oa1AA35k)
 
+<h2 dir="auto">Community &amp; Contributing</h2>
+<p>Take a piece from the next big thing!</p>
+<p><a title="Github" href="https://github.com/analytics-model/Analytics-model">Github</a>&nbsp;</p>
+<p><a href="https://join.slack.com/t/analytics-model/shared_invite/zt-1crz0ctq9-c3N3IT134h9SI0MDFCsvsA">Slack&nbsp;</a></p>
+<p><a href="https://www.facebook.com/groups/1733475623667253">Facebook Group</a></p>
+<p><a href="https://www.analytics-model.com/blog">Blog</a></p>
 
 <!--
 **analytics-model/Analytics-model** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
