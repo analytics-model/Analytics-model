@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 
 
-Open source platform that monitor and analyse data autonomously, using this platform you will automatically notifies when the software engine identifies an anomaly or incident in your data. The algorithem is basaed on machine learning technolegy. 
+Platform that monitor and analyse data autonomously, using this platform you will automatically notifies when the software engine identifies an anomaly or incident in your data. The algorithem is basaed on machine learning technolegy. 
 
 <p>&nbsp;</p>
 Our models run continuously and autonomously across every possible metric, study your data’s normal
